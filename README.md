@@ -1,5 +1,5 @@
 # Unity-projects-in-Extended-Reality
-This repository is about the some labs and the final project of the course Extended Reality in Theory and in Practice at KTH (Royal Institue of Technology). The project is about creating a multimodal interaction in Virtual Reality using Unity.
+This repository is about the some labs and the final project of the course Extended Reality in Theory and in Practice at KTH (Royal Institue of Technology). The project is about creating a multimodal interaction in Virtual Reality using Unity version 6000.2.14f1, XRI Interaction Toolkit and ML-Agents.
 
 # The Mini Project: 
 This Unity project demonstrates three levels with different interaction modalities in virtual reality:
