@@ -25,5 +25,5 @@ This Unity project demonstrates three levels with different interaction modaliti
 - Free sound effects: [Pixabay](https://pixabay.com)
 
 ## Video Demonstration
-[Watch the project demo](https://www.youtube.com/watch?v=bgx2VojSWE0)
-![Demo of VR interaction](Visuals/Interaction_Videoclip)
+[Watch the VR project demo](https://www.youtube.com/watch?v=bgx2VojSWE0)
+![Github Short Video](Visuals/Interaction_Videoclip)
